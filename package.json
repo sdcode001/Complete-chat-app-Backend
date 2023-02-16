@@ -1,0 +1,24 @@
+{
+  "name": "icfe_node_be",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.6",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.0.1",
+    "mongoose": "^6.9.0",
+    "next": "13.1.6",
+    "next-auth": "^4.19.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "socket.io": "^4.6.0",
+    "socket.io-client": "^4.6.0"
+  }
+}
